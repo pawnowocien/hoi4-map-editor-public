@@ -1,0 +1,9 @@
+PPP = {
+    color = hsv { 1 2 1.1 }
+    color_ui = { 100 200 100 }
+    color_ui = rgb{ 100 200 100 }
+}
+
+LLL = {
+    color = rgb { 12 141 10 }
+}
