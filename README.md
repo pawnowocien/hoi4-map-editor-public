@@ -1,6 +1,6 @@
 # Hearts of Iron IV Map Editor
 
-Private and regrettably abandoned project. An application made in Java Swing. My objective was to create a desktop application that allows users to load data from HOI4 files and easily modify maps for modding through a user-friendly interface.
+Personal and regrettably abandoned project. An application made in Java Swing. My objective was to create a desktop application that allows users to load data from HOI4 files and easily modify maps for modding through a user-friendly interface.
 
 ## Functionalities
 
